@@ -1,7 +1,7 @@
-'''
+---
 layout: page
 title: Resume
-'''
+---
 
 <div>
   <object>
